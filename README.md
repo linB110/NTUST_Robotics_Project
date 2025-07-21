@@ -4,7 +4,7 @@ A full-stack robotics system integrating AI-powered computer vision and robotic 
 This project demonstrates a robust pipeline from perception to control, enabling precise object pick-and-place and intelligent stacking based on visual attributes.
 
 [📺 **Demo Video1 (YouTube)**](https://www.youtube.com/watch?v=j3vBnhzgqhY)
-[📺 **Demo Video1 (YouTube)**](https://www.youtube.com/watch?v=uE8dl_GGoJs)
+[📺 **Demo Video2 (YouTube)**](https://www.youtube.com/watch?v=uE8dl_GGoJs)
 
 ---
 

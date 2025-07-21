@@ -100,6 +100,12 @@ All outputs saved in `train/` and `valid/` according to the specified split.
 
 ---
 
+---
+## Demo
+<img width="880" height="417" alt="image" src="https://github.com/user-attachments/assets/f53e9368-f9ba-4e37-9a85-348344228d4a" />
+
+---
+
 ## License
 
 Free to use for academic and non-commercial purposes.
